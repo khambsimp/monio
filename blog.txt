@@ -1,0 +1,12 @@
+The purpose of this GitHub module is to learn how to utilize GitHub. GitHub is
+an always on computer, and programming environment for developing software.
+GitHub is capable of taking a local repository, and making it available for
+download or search, anywhere the internet can literally reach them. To the full
+extent of human signaling. They have GitHub Desktop, and staying at Atom text
+editor. So you can have your C editor working, and a C++ working in a text
+editor and upload it to the internet or Github for views and exposure.
+
+Also the code can automatically be uploaded to a google server or amazon api
+servicer and automatically web pages can be created, and uploaded on the web.
+
+All from an atom text editor. 
