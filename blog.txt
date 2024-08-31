@@ -9,4 +9,12 @@ editor and upload it to the internet or Github for views and exposure.
 Also the code can automatically be uploaded to a google server or amazon api
 servicer and automatically web pages can be created, and uploaded on the web.
 
-All from an atom text editor. 
+All from an atom text editor.
+The git editor also certain settings to find the state of a particular operation
+or stage of the git commit.
+The goal of the website engineering or front end software engineering is to
+be able to type within a text editor and see the blog come alive with a webfont
+of the product I would like to promote.
+One of the best interfaces on the Computer to use is the CLI interface.
+The Gui is even better though and gives you tons of freedom on a computer.
+This editor is much better.
