@@ -9,4 +9,76 @@ editor and upload it to the internet or Github for views and exposure.
 Also the code can automatically be uploaded to a google server or amazon api
 servicer and automatically web pages can be created, and uploaded on the web.
 
-All from an atom text editor. 
+All from an atom text editor.
+The git editor also certain settings to find the state of a particular operation
+or stage of the git commit.
+The goal of the website engineering or front end software engineering is to
+be able to type within a text editor and see the blog come alive with a webfont
+of the product I would like to promote.
+One of the best interfaces on the Computer to use is the CLI interface.
+The GUI is even better though and gives you tons of freedom on a computer.
+This editor is much better.
+First try to do this through git cli.
+What is not Computational complexity Theory, what is Complexity Theory?
+What is the front page of the website you want to view?
+Software Documentation has a Quick Start a user Guide
+but then also a Developers Guide. This is true throughout Information Systems
+and Mathematics.
+So, for Information Science you have, the language which initiates it.
+This includes, Discrete Mathematics to begin. There is also the related
+disciplines.
+of Mathematical theories, there is Information Theory, Linguistics, topography,
+Number Systems, and Mathematical Notation.
+The Cloud Computing era is here and essentially are large Buildings, even
+factories of data processing. So the information Sciences consist of Information
+Science, Data Science, Network Science, and Computer Science. Git is a
+Distributed Source Control System. Using git a person can create websites, and
+write Javascript.
+What this means, is that in the context of Discrete Mathematics, is
+that  Computability Theory is actually attainable, being an algorithmic
+description of discrete mathematical construct. Sort of like a technical
+monospaced font. So, within Information Science what are the big topics which
+could be consequential to human beings today?
+So it is more important to think of Discrete Computers as mathematical entities
+capable of traversing the Discrete universe as it were
+so here atom cannot push an update to a public remote data base because the host
+server is refusing requests outside of a peculiar address. Not true.
+Ryan Dahl has us beat already. If you can create a quality CLI interface that
+is important as well. It is pretty similar to a quality GUI interface but you
+must estimate how people will dictate the choices within a menu.
+All compartmentalized is no way to build things without a focus on the algorithm.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
