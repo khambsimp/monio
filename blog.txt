@@ -39,3 +39,5 @@ that  Computability Theory is actually attainable, being an algorithmic
 description of discrete mathematical construct. Sort of like a technical
 monospaced font. So, within Information Science what are the big topics which
 could be consequential to human beings today?
+So it is more important to think of Discrete Computers as mathematical entities
+capable of traversing the Discrete universe as it were 
