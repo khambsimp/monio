@@ -16,5 +16,26 @@ The goal of the website engineering or front end software engineering is to
 be able to type within a text editor and see the blog come alive with a webfont
 of the product I would like to promote.
 One of the best interfaces on the Computer to use is the CLI interface.
-The Gui is even better though and gives you tons of freedom on a computer.
+The GUI is even better though and gives you tons of freedom on a computer.
 This editor is much better.
+First try to do this through git cli.
+What is not Computational complexity Theory, what is Complexity Theory?
+What is the front page of the website you want to view?
+Software Documentation has a Quick Start a user Guide
+but then also a Developers Guide. This is true throughout Information Systems
+and Mathematics.
+So, for Information Science you have, the language which initiates it.
+This includes, Discrete Mathematics to begin. There is also the related
+disciplines.
+of Mathematical theories, there is Information Theory, Linguistics, topography,
+Number Systems, and Mathematical Notation.
+The Cloud Computing era is here and essentially are large Buildings, even
+factories of data processing. So the information Sciences consist of Information
+Science, Data Science, Network Science, and Computer Science. Git is a
+Distributed Source Control System. Using git a person can create websites, and
+write Javascript.
+What this means, is that in the context of Discrete Mathematics, is
+that  Computability Theory is actually attainable, being an algorithmic
+description of discrete mathematical construct. Sort of like a technical
+monospaced font. So, within Information Science what are the big topics which
+could be consequential to human beings today?
