@@ -47,7 +47,26 @@ Ryan Dahl has us beat already. If you can create a quality CLI interface that
 is important as well. It is pretty similar to a quality GUI interface but you
 must estimate how people will dictate the choices within a menu.
 All compartmentalized is no way to build things without a focus on the algorithm.
- 
+Can't you with CRDTs keep writing and the correct text would appear as source
+code?
+This lume front page should become more like a blog banner. Then the main blog.
+Likewise, Simplicity Theory, similar to Systems Theory should actually be a
+choice topic.
+interestingly enough "problem solving" is an aspect of language people can work
+and develop into a particular sequence. Similar to learning about the tools
+around you.
+What are some items that would be great for the blog to do? Okay, here's an
+example!!! This blog would/could talk about what Computers are what they can do,
+what have they done in the past, and what can be done to understand their
+influence within the context of the future of humanity?
+It's actually important to understand how things are made. Testing code is a
+great way to learn good Software writing technique.
+Likely, an Information System within a large building should have the same
+interface that people use when using a cli on a small screen. Why because the
+the way that people interact with computers is familiar.
+Think about Computers like knowing the code that would make available a
+particular data. More like a Network.
+Funny enough a quick-start to UNIX is still valuable today.
 
 
 
