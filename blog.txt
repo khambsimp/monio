@@ -68,19 +68,76 @@ Think about Computers like knowing the code that would make available a
 particular data. More like a Network.
 Funny enough a quick-start to UNIX is still valuable today.
 
+Lets see how Lume works.
+Writing and Intelligence and Literature are very important in 2024.
+Lume is an SDK. Like an FDK or GDK.
 
+A Website is a small Turing machine.
+1. Logo, Trademark.
+2. copyright, and reserved name.
+display front
+install software CLI
+Features
 
+Get a Graphic Designer to build a
+Design System
+With a Portfolio
+And a Resume
+Logo
+Photography
+Illustration
+Brand Guide
+Font Specification
+Font Specimen
+T-Shirts
 
+Circuit Complexity Theory
+is actually a powerful form of Analysis as you can do to determine if I have the
+right Circuit.
+All of these programs should actually be easier to understood and design for
+people.
 
+For Slack Apps, or Slack APIs the service is designed around manifests or
+software configuration styles.
 
+Is deno a genuine server?
+Yes, Developers and Software engineers are good at developing a product out with
+use cases, however keeping these non-complicated, or simple and referencing
+the core functions becomes difficult.
 
+Computability Theory is essentially a solved problem, with Hardware description
+languages. What are ideas or concepts people do not try to compute, or try to
+change?
 
+API
+ABI
+CLI
+SDK
+MDK
+APCI
+Bootloader
+RT Linux Kernel (in the mainline)
+UIKit
+GUI
+Framework
 
+Try to do a ton in the Linux API
+writing an API
 
+The concept of a computer is a written concept.
+It is a form of Fiction.
 
+Essentially, all discrete Computers are a form of Computation.
+Likely math and logic can be directly incorporated within language.
 
+All programs are also encoders of some kind.
+The DOM is also a file format.
 
+Data and Metadata are important.
 
+Discrete Math is a computational model.
+
+Built with Lume
 
 
 
