@@ -1,4 +1,4 @@
-# monios 1.0
+# monios 0.0.1
 
 The fully functional Operating System
 
@@ -17,3 +17,6 @@ core so programming can really look however we would like it
 to.
 
 It more so depends on the outcome you're looking for.
+
+## Blog
+This is the first instantion of the monio computer, and information translator. Input is markdown, and this is graphically communicated to the observer with exposure, the direct approach.
