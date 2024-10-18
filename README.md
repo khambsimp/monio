@@ -18,5 +18,7 @@ to.
 
 It more so depends on the outcome you're looking for.
 
+## A Computer is a mathematical construct
+
 ## Blog
 This is the first instantion of the monio computer, and information translator. Input is markdown, and this is graphically communicated to the observer with exposure, the direct approach.
