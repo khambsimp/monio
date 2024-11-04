@@ -2,7 +2,7 @@
 layout: layout.vto
 title: My second page
 ---
-# Another page
+# Second page
 
 My second page in **Lume**.
 
