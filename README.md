@@ -18,6 +18,8 @@ to.
 
 It more so depends on the outcome you're looking for.
 
+So typically, when we are trying to understand how computers can read and compress information. intake right now we’re living in a stage of computing so that is short term in economics sense is coming to Two servers today is thinking more than likely likely to be distributed in a format. You know similar to Jason Allen and essentially you know OK goodbye to streams of data all sequence similar to Jason and these are really propagated on the network wireless or wired fiber, if you want to get really into the millisecond, so you almost get real time or better than real time data, right then if you look at the database the biscuit you’re not limited there at three either quickly
+
 ## A Computer is a mathematical construct
 
 ## Blog
