@@ -23,10 +23,15 @@ So typically, when we are trying to understand how computers can read and compre
 # A Computer is a mathematical construct
 
 ## Logic
+Human Beings can reason about Computers *exactly*. Human Beings can develop written symbollic languages which represent the state of a Computer exactly.
 ## Discrete Mathematics
+Mathematics is a real baseline for Computer Science, and foundational to how people reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on techniques useful for, and utilized within Computing.
 ## Algorithms
+Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables.
 ## Data Structures
+Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  
 ## Cryptography
+
 ## Programming Language Theory
 ## Type Theory
 ## Formal Languages
