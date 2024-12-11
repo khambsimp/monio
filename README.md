@@ -31,12 +31,17 @@ Or Algebra designated for Discrete Mathematics, abtracts different approches to 
 ## Data Structures
 Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  
 ## Cryptography
-
+Cryotpgraphy includes th sprservation of information across physical space and also in the vent that data has been corrupted intentionally, this is expecially importnt in proving the validity of data within networks.
 ## Programming Language Theory
+Programming Kanguage theory includes the develoment of natural language shirhand that is related turing machines which operate on discrete systems in a way which poepl can reason about them.
 ## Type Theory
+Type Theiry is a Logix  Kanguage created to further abstact the consolidation of language within a programming language making comlex functctions succing in handling off nominal notions.
 ## Formal Languages
+Formal Languages are logic alnguages more related to shordhand logic ansd discrete notions with a ntural lanfguage.
 ## Theory of Computation
+Theoruy of Cmoutatuon is lalrge based organization for a number of theorue which discribe the construction or discrupititon of large comyutbae and realizinble systems that can be reasoned about within the same magnitede.
 ## Computability Theory
+This concerns where and and two what extende ever more complex lanugges can be written. One could inmagine a case where, even though,s
 ## Complexity Theory
 ## Graph Theory
 ## Automata Theory
