@@ -5,10 +5,10 @@ The fully functional Operating System.
 A refreshed OS with a different approach to utilize Theory of Computing
 to develop a blueprint of a Computer Architecture that is beneficial to the society of the future.
 
-They way that Software and Computer Development is done does not actually take into consideration the ways which people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familar. Especially to the person. Luckily, Computing as a concept is not as limited.
+They way that Software and Computer development is done does not actually take into consideration the ways which people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familar. Especially to the person. Luckily, Computing as a concept is not limited.
 
 # Cloud Computing
-A great resource on this end is the aptly name Warehouse Scale Computer. The existing author of this Program is familiar with the framing of computing in terms of size (volume), weight (mass), and power (energy) as quantitiative design elements for an effcient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary 
+A great resource on this end is the aptly name Warehouse Scale Computer. The existing author of this Program is familiar with the framing of computing in terms of size (volume), weight (mass), and power (energy) as quantitiative design elements for an effcient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary Computing and its operations at scale are often framed in reference to time, or energy (resource) efficiency. In other wordsas people build larger and larger computing platforms, we also find that large scale building renditions of these must also operate efficiently in order to justify the resources to develop them. In other words Computing paradigms are not only important for their impact, and reframing of information, but also their 
 
 # Distributed Computing
 
