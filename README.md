@@ -31,7 +31,7 @@ Human Beings can reason about Computers *exactly*. Human Beings can develop writ
 ## Discrete Mathematics
 Discrete Mathematics is a logical, and quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques useful for scalable constructs useful within a context of Computing.
 ## Algorithms
-Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables.
+Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods.
 ## Data Structures
 Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  
 ## Cryptography
