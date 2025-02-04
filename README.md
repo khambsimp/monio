@@ -45,7 +45,7 @@ Formal Languages are logic alnguages more related to shordhand logic ansd discre
 ## Theory of Computation
 Theoruy of Cmoutatuon is lalrge based organization for a number of theorue which discribe the construction or discrupititon of large comyutbae and realizinble systems that can be reasoned about within the same magnitede.
 ## Computability Theory
-This concerns where and two what extende ever more complex lanugges can be written. One could imagine a case where, even though, a particular abstract argument about computing in the large scale could be made, the impediment to actually simulate an appropriate calculation could be the framework, or basis language of the computation that is. That is if givin the computable rules, a Computer could distill an argument in abstract human terms. The langugae and whether the recursive process is difined within the computer is an enable to provide an framework concious abstract solution to a posed data analysis.
+This concerns where and two what extent ever more complex lanuages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is defined within the computer makes computability a concious abstract solution to a posed data analysis.
 ## Complexity Theory
 
 ## Graph Theory
@@ -58,7 +58,7 @@ This concerns where and two what extende ever more complex lanugges can be writt
 ## Artifical Intellagence
 
 ## Blog
-This is the first instantion of the monio computer, and information translator. Input is markdown, and this is graphically communicated to the observer with exposure, the direct approach.
+This is the first instantion of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
 
 
 
