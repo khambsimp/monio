@@ -29,7 +29,7 @@ So typically, when we are trying to understand how computers can read and compre
 Human Beings can reason about Computers *exactly*. Human Beings can develop written symbollic languages which represent the state of a Computer exactly. There aprticular operators which people associate with Computers (Boolean Operators) and (Turing Complete Languages). Now these logical preceptors are also computability operators, and information encoders in the language argument and framework sense.
 
 ## Discrete Mathematics
-Mathematics is a real baseline for Computer Science, and foundational to how people reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on techniques useful for, and utilized within Computing.
+Discrete Mathematics is a logical, and quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques useful for scalable constructs useful within a context of Computing.
 ## Algorithms
 Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables.
 ## Data Structures
