@@ -1,12 +1,16 @@
 # monios 0.0.1
 
-The fully functional Operating System
+The fully functional Operating System.
 
 A refreshed OS with a different approach to utilize Theory of Computing
-to develop a Blueprint of a Computer Architecture that is beneficial to the future.
+to develop a blueprint of a Computer Architecture that is beneficial to the society of the future.
 
-Cloud Computing
-Distributed Computing
+They way that Software and Computer Development is done does not actually take into consideration the ways which people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familar. Especially to the person. Luckily, Computing as a concept is not as limited.
+
+# Cloud Computing
+A great resource on this end is the aptly name Warehouse Scale Computer. The existing author of this Program is familiar with the framing of computing in terms of size (volume), weight (mass), and power (energy) as quantitiative design elements for an effcient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary 
+
+# Distributed Computing
 
 The goal of Monoid Internet is to explore what an information minicomputer could be.
 The question at hand is, is there a better way to design computers than
