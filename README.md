@@ -47,6 +47,7 @@ Theoruy of Cmoutatuon is lalrge based organization for a number of theorue which
 ## Computability Theory
 This concerns where and two what extent ever more complex lanuages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is defined within the computer makes computability a concious abstract solution to a posed data analysis.
 ## Complexity Theory
+As SOftware projects grow, so do tehe number of referenced helper ibraries, and related extractions used to limit the processsing involved to provide a usable software sresense. As the nmber of dependiencies grow for sophisticated software frame works, so does the possibility that a dependent element may break or be infected by malware. Languages must be both expressive, yet also maintain their operating intent regardless of how the algorithm is framed. Enccoding functions must conversely not be described by equally complex and dependent software entities.
 
 ## Graph Theory
 ## Automata Theory
