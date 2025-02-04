@@ -33,7 +33,7 @@ Discrete Mathematics is a logical, and quantitative basis for scalable Algorithm
 ## Algorithms
 Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods.
 ## Data Structures
-Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  
+Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  When Algorithmic Analysis is applied to large scale programs, the problem of how memory and data are accessed impqct the performance of a program and its scalable nature. 
 ## Cryptography
 Cryotpgraphy includes th sprservation of information across physical space and also in the vent that data has been corrupted intentionally, this is expecially importnt in proving the validity of data within networks.
 ## Programming Language Theory
