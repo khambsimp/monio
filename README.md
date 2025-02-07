@@ -5,10 +5,10 @@ The fully functional Operating System.
 A refreshed OS with a different approach to utilize Theory of Computing
 to develop a blueprint of a Computer Architecture that is beneficial to the society of the future.
 
-The way that Software and Computer development is done does not actually take into consideration how people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familar. Especially to the person. Luckily, Computing as a concept is not limited.
+The way that Software and Computer development is done does not actually take into consideration how people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familiar. Especially to the person. Luckily, Computing as a concept is not limited.
 
 # Cloud Computing
-A great resource on this end is the aptly name Warehouse Scale Computer. Computing has been framed in terms of size (volume), weight (mass), and power (energy) as quantitiative design elements for an effcient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary, Computing and its operations at scale are often framed in reference to time, or energy (resource) efficiency. In other words, as people build larger and larger computing platforms, we also find that large scale building renditions of these must also operate efficiently in order to justify the resources used to develop them. In other words Computing paradigms are not only important for their impact, and reframing of information, but also their efficiency. How do operations and energy reformat and codify large amounts of information and data? Is this reformatting effective to society? Universally available?
+A great resource on this end is the aptly name Warehouse Scale Computer. Computing has been framed in terms of size (volume), weight (mass), and power (energy) as quantitative design elements for an efficient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary, Computing and its operations at scale are often framed in reference to time, or energy (resource) efficiency. In other words, as people build larger and larger computing platforms, we also find that large scale building renditions of these must also operate efficiently in order to justify the resources used to develop them. In other words Computing paradigms are not only important for their impact, and reframing of information, but also their efficiency. How do operations and energy reformat and codify large amounts of information and data? Is this reformatting effective to society? Universally available?
 
 # Distributed Computing
 The goal of Monoid Internet is to explore what an information minicomputer could be.
@@ -34,7 +34,7 @@ Discrete Mathematics is a logical, and quantitative basis for scalable Algorithm
 ## Algorithms
 Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods.
 ## Data Structures
-Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  When Algorithmic Analysis is applied to large scale programs, the problem of how memory and data are accessed impqct the performance of a program and its scalable nature. 
+Oftentimes to define effcient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  When Algorithmic Analysis is applied to large scale programs, the problem of how memory and data are accessed impqct the performance of a program and its scalable nature.
 ## Cryptography
 Cryotpgraphy includes th sprservation of information across physical space and also in the vent that data has been corrupted intentionally, this is expecially importnt in proving the validity of data within networks.
 ## Programming Language Theory
@@ -47,17 +47,17 @@ Formal Languages are logic alnguages more related to shordhand logic ansd discre
 Theoruy of Cmoutatuon is lalrge based organization for a number of theorue which discribe the construction or discrupititon of large comyutbae and realizinble systems that can be reasoned about within the same magnitede.
 ## Computability Theory
 This concerns where and two what extent ever more complex lanuages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is defined within the computer makes computability a concious abstract solution to a posed data analysis.
-
 ## Complexity Theory
 As Software projects grow, so do tehe number of referenced helper ibraries, and related extractions used to limit the processsing involved to provide a usable software sresense. As the nmber of dependiencies grow for sophisticated software frame works, so does the possibility that a dependent element may break or be infected by malware. Languages must be both expressive, yet also maintain their operating intent regardless of how the algorithm is framed. Enccoding functions must conversely not be described by equally complex and dependent software entities.
-
 ## Graph Theory
-
 Graph theory is closely related to Network Theroy and the develoment of nodes with an emphasis of how they related to one another instead of what their value is individually. Graphs are useful for modeling dependent relationships between a single entity and its m=peers. For Peoerto Peer Computing, Graphs may relate the interdependent relationships between data memebers. For protocol engineering the netwwork itself may trck relationships btween entties, howeber this may be information which can be tracked only within the ner term.
-
 ## Automata Theory
+Automata Theory and Turing Machines are class of entities utilized by Computer Scientists, and Formal Language Theorists to reason abou the performance of Algorithms. That is when algorithms are applied, there are aspects of their behavior which are limited in time, and or memeory, that Automata are able to model in Discrete form. Notable as well is that
 ## Information Theory
+At its core the study of Information concerns Human Beings, and the source of their Language capabilities. Human Beings have developed Language over time to to develop written, auditory, handsignal, and other renditions of language which can be percieved by their senses. Lingustics, natural language, math, are all attemps by people to codify and extend their senses and consitiutue ad physical rendition of information. An information which does not only rever to Natural Phenomena but, may refer to aspects of human creativity, history, folklore, and abstract. Information Theory constitutes the until now understanding of how information can be perserved and communicated to human beings, and the extent to which we can construe and perserve language over time,
+and communicate it with precision.
 ## Coding Theory
+One of the great efficiencies in Computer Sciece is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense omputer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. 
 ## Category Theory
 ## Combinatorics
 ## Machine Learning
