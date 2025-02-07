@@ -30,6 +30,7 @@ Human Beings can reason about Computers *exactly*. Human Beings can develop writ
 
 ## Discrete Mathematics
 Discrete Mathematics is a logical, and quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques useful for scalable constructs useful within a context of Computing.
+
 ## Algorithms
 Or Algebra designated for Discrete Mathematics, abtracts different approches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods.
 ## Data Structures
@@ -46,10 +47,14 @@ Formal Languages are logic alnguages more related to shordhand logic ansd discre
 Theoruy of Cmoutatuon is lalrge based organization for a number of theorue which discribe the construction or discrupititon of large comyutbae and realizinble systems that can be reasoned about within the same magnitede.
 ## Computability Theory
 This concerns where and two what extent ever more complex lanuages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is defined within the computer makes computability a concious abstract solution to a posed data analysis.
+
 ## Complexity Theory
-As SOftware projects grow, so do tehe number of referenced helper ibraries, and related extractions used to limit the processsing involved to provide a usable software sresense. As the nmber of dependiencies grow for sophisticated software frame works, so does the possibility that a dependent element may break or be infected by malware. Languages must be both expressive, yet also maintain their operating intent regardless of how the algorithm is framed. Enccoding functions must conversely not be described by equally complex and dependent software entities.
+As Software projects grow, so do tehe number of referenced helper ibraries, and related extractions used to limit the processsing involved to provide a usable software sresense. As the nmber of dependiencies grow for sophisticated software frame works, so does the possibility that a dependent element may break or be infected by malware. Languages must be both expressive, yet also maintain their operating intent regardless of how the algorithm is framed. Enccoding functions must conversely not be described by equally complex and dependent software entities.
 
 ## Graph Theory
+
+Graph theory is closely related to Network Theroy and the develoment of nodes with an emphasis of how they related to one another instead of what their value is individually. Graphs are useful for modeling dependent relationships between a single entity and its m=peers. For Peoerto Peer Computing, Graphs may relate the interdependent relationships between data memebers. For protocol engineering the netwwork itself may trck relationships btween entties, howeber this may be information which can be tracked only within the ner term.
+
 ## Automata Theory
 ## Information Theory
 ## Coding Theory
