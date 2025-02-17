@@ -57,14 +57,27 @@ Automata Theory and Turing Machines are class of entities utilized by Computer S
 At its core the study of Information concerns Human Beings, and the source of their Language capabilities. Human Beings have developed Language over time to to develop written, auditory, handsignal, and other renditions of language which can be percieved by their senses. Lingustics, natural language, math, are all attemps by people to codify and extend their senses and consitiutue ad physical rendition of information. An information which does not only rever to Natural Phenomena but, may refer to aspects of human creativity, history, folklore, and abstract. Information Theory constitutes the until now understanding of how information can be perserved and communicated to human beings, and the extent to which we can construe and perserve language over time,
 and communicate it with precision.
 ## Coding Theory
-One of the great efficiencies in Computer Sciece is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense omputer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. 
+One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one.
 ## Category Theory
+Category Theory is a method, for categorizing relationships between different field and implementations of math. Fields of Math which seem different often have known methods for converting or applying constituent objects with one another. Category theory provides a set of common techniques to do so, while simplifying, and making more understandable, applications of proofs using different kinds of mathematics. Part Systems language, and part programming language for mathematics. Category Theory is considered an approach of mathematics which can serve as a common language for math.
+## Group Theory
+Group Theory, similar to category theory is thought of as a possible common language for mathematics, and involves the unifying of fields which seem dissimilar. Groups constitute different objects within mathematics, which can serve as a data structure to organize common objects utilized to define mathematical fields, and their interaction.
 ## Combinatorics
-## Machine Learning
-## Artifical Intellagence
 
-## Blog
-This is the first instantion of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
+## Machine Learning
+There are a number of techniques for conducting Coding Theory, that is utilizing discrete data to develop codified information of data within multiple layers of abstraction.
+## Artifical Intelligence
+Artificial Intelligence is form of Digital Filtering involving parallel architectures. These are often described as matrices, however, these are topologically similar to neural nets. These matrices define architectures for storing associations between statistically consistent data, one of these being written speech. 
+# Blog
+This is the first instantiation of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
+# Computing Paradigms
+## Distributed Computing
+## Cloud Computing
+## Personal Computing
+## Internet of Things
+### Graphic Design System 3
+The new Graphic Design System 3 is developed using Non-uniform Rational B-Splines.
+
 
 
 
