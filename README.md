@@ -7,6 +7,9 @@ to develop a blueprint of a Computer Architecture that is beneficial to the soci
 
 The way that Software and Computer development is done does not actually take into consideration how people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familiar. Especially to the person. Luckily, Computing as a concept is not limited.
 
+# Language
+All Language is actually the same language.
+
 # Personal Computing
 
 # Cloud Computing
@@ -46,7 +49,7 @@ Type Theory is a Logic  Language created to further abstract the consolidation o
 ## Formal Languages
 Formal Languages are logic languages more related to shorthand logic and discrete notions with a natural language.
 ## Theory of Computation
-Theory of Computation is large collection of organized methods for using number theory to describe the construction and description of large computable and realizable systems that can be reasoned about to the same magnitude.
+Theory of Computation is large collection of organized methods for using number theory to describe the construction and description of large computable and realizable systems that can be reasoned about to the same magnitude. Theory of Computation derrides a few fundamental changes in aspects and approaches for the development of computing resources. These include the Theory of Cmputations, Computability Theory, Automata Theory and Complexity Theory. Theory of Computation encompasses our methods of making computing, simpler, more time and energy efficient, and easier for programmers to express.  
 ## Computability Theory
 This concerns where and to what extent ever more complex computable languages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data were made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is definable within the computer language makes computability a conscious abstract solution to a posed data analysis. If it is impossible to define a computing language that can distill whether any mathematical statement were true or false, what is the minimum number of rules and guidance that should be made so that a computer or definable language could determine the extent to which a  mathematical statement is correct or false?
 ## Complexity Theory
