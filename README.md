@@ -5,10 +5,10 @@ The fully functional Operating System.
 A refreshed OS with a different approach to utilize Theory of Computing
 to develop a blueprint of a Computer Architecture that is beneficial to the society of the future.
 
-The way that Software and Computer development is done does not actually take into consideration how people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be Engineer's tendency to avoid current conceptualizations of the Scientific realization of computing, and instead utilize one which seems more familiar. Especially to the person. Luckily, Computing as a concept is not limited.
+The way that Software and Computer development is done does not actually take into consideration how people have developed and grown their understanding of Computing in particular, or Information in general. A common misconception might be our tendency to expect current conceptualizations of Computing to be lead by the needs of Scientists, when many of the greatest applications of Computing may be initiatied from people outside of Science. This is a conceptualization of Computing as a concept more broad and able to impact society at a greater magnitude.
 
 # Language
-All Language is actually the same language.
+All Language is actually the same language. The way Language is manifested within our Cognition is the same between people.
 
 # Personal Computing
 There are similarities in the way that human beings comprehend Computers. In essense it amounts to how we architect information in a way that it can be processed correctly, and computably using logic, arithmetic, and integer math. To process large swathes of information we tend to develop abstractions. These abstractions can be deduced to amount to logic, arithmetic, and integers when analyzed and optimized. However, we use abstractions to communicate with other humans, based on the specific way the computable functions have been implemented in physical reality. This project address how, our theoretical, and mathematical conceptualizations of computing affect, the implemented and as designed languages, and procesors used to store and compute the information within our lives.
@@ -28,6 +28,8 @@ to.
 It more so depends on the outcome you're looking for.
 
 So typically, when we are trying to understand how computers can read and compress information. intake right now we’re living in a stage of computing so that is short term in economics sense is coming to Two servers today is thinking more than likely likely to be distributed in a format. You know similar to Jason Allen and essentially you know OK goodbye to streams of data all sequence similar to Jason and these are really propagated on the network wireless or wired fiber, if you want to get really into the millisecond, so you almost get real time or better than real time data, right then if you look at the database the biscuit you’re not limited there at three either quickly
+
+The information computer is also vital for determining how a 
 
 # A Computer is a Mathematical Construct
 
@@ -81,7 +83,7 @@ This is the first instantiation of the monio computer, an information translator
 ## Cloud Computing
 ## Personal Computing
 ## Internet of Things
-### Graphic Design System 3
+## Graphic Design System 3
 The new Graphic Design System 3 is developed using Non-uniform Rational B-Splines.
 
 
