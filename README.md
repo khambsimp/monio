@@ -1,5 +1,4 @@
 # monios 0.0.1
-
 The fully functional Operating System.
 
 A refreshed OS with a different approach to utilize Theory of Computing
@@ -17,28 +16,18 @@ There are similarities in the way that human beings comprehend Computers. In ess
 A great resource on this end is the aptly name Warehouse Scale Computer. Computing has been framed in terms of size (volume), weight (mass), and power (energy) as quantitative design elements for an efficient computing platform. Lo and behold these tradeoffs are not unique to vehicles themselves. On the contrary, Computing and its operations at scale are often framed in reference to time, or energy (resource) efficiency. In other words, as people build larger and larger computing platforms, we also find that large scale building renditions of these must also operate efficiently in order to justify the resources used to develop them. In other words Computing paradigms are not only important for their impact, and reframing of information, but also their efficiency. How do operations and energy reformat and codify large amounts of information and data? Is this reformatting effective to society? Universally available?
 
 # Distributed Computing
-The goal of Monoid Internet is to explore what an information minicomputer could be.
-The question at hand is, is there a better way to design computers than
-the method we are using right now?
-
-The answer is probably yes. Computers are information manipulators at their
-core so programming can really look however we would like it
-to.
-
-It more so depends on the outcome you're looking for.
+The goal of Monoid Internet is to explore what an information minicomputer could be. The question at hand is, is there a better way to design computers than
+the method we are using right now? The answer is probably yes. Computers are information manipulators at their core, so programming can really look however we would like it to. It more so depends on the outcome you're looking for.
 
 So typically, when we are trying to understand how computers can read and compress information. intake right now we’re living in a stage of computing so that is short term in economics sense is coming to Two servers today is thinking more than likely likely to be distributed in a format. You know similar to Jason Allen and essentially you know OK goodbye to streams of data all sequence similar to Jason and these are really propagated on the network wireless or wired fiber, if you want to get really into the millisecond, so you almost get real time or better than real time data, right then if you look at the database the biscuit you’re not limited there at three either quickly
 
-The information computer is also vital for determining how a 
+The information computer is also vital for determining how to codify, and distribute algorithmic encoders which can develop information architecture efficiently. Case and point, let us examine git. Git is capable of sitting as an https endpoint on a host computer, and store the eventual commits of thousands of developers asynchronously. This enables programmers to develop software architecture concurrently, in a parallel fashion, and asynchronously.  
 
 # A Computer is a Mathematical Construct
-
 ## Logic
 Human Beings can reason about Computers *exactly*. Human Beings can develop written symbolic languages which represent the state of a Computer exactly. There are particular operators which people associate with Computers (Boolean Operators) and (Turing Complete Languages). Now these logical preceptors are also computability operators, and information encoders in the language argument and framework sense.
-
 ## Discrete Mathematics
-Discrete Mathematics is a logical, and quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques useful for scalable constructs useful within a context of Computing. Programmers can program natural numbers and integers reflexively. 
-
+Discrete Mathematics is a logical, and quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques for scalable constructs useful within a context of Computing. Programmers can program natural numbers and integers reflexively. 
 ## Algorithms
 Or Algebra designated for Discrete Mathematics, abstracts different approaches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods. algorithmic Analysis is ever more important. Similar to Real Analysis, Algorithmic Aanlysis presents a number of techniques from Applied Complexity Theory, Applied Programming Language Theory, and Applied Automata theory to derive and compare the real world performance of Algorithms and Data Strcutures. To what extent can we determine the expected as implemented program to run in finite time or energy. To what extent do these match performance of engineered Computers?
 ## Data Structures
@@ -71,7 +60,6 @@ Category Theory is a method, for categorizing relationships between different fi
 ## Group Theory
 Group Theory, similar to category theory is thought of as a possible common language for mathematics, and involves the unifying of fields which seem dissimilar. Groups constitute different objects within mathematics, which can serve as a data structure to organize common objects utilized to define mathematical fields, and their interaction.
 ## Combinatorics
-
 ## Machine Learning
 There are a number of techniques for conducting Coding Theory, that is utilizing discrete data to develop codified information of data within multiple layers of abstraction.
 ## Artifical Intelligence
