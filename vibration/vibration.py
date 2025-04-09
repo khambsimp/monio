@@ -53,7 +53,7 @@ ax3.set_title('VIB3705-3 Phase vs. Frequency')
 ax3.set_xlabel('Phase Angle')
 ax3.set_ylabel('Frequency (Hz)')
 
-ax3.plot(non_dim_frequency, np.abs(phase_response))
+ax3.plot(non_dim_frequency, phase_response)
 ax3.grid(True)
 fig3.savefig("vib3705-3_phase_v_frequency.pdf")
 plt.show()
