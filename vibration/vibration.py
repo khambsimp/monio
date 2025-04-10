@@ -43,10 +43,10 @@ fig2.savefig("vib3705-3_transmissibility_v_frequency.pdf")
 
 # Phase Response vs. Frequency
 ph_non_dim_freq_p1 = np.linspace(0,0.99,100)
-ph_non_dim_freq_p2 = np.linspace(1.0,2.0,100)
-phase_response_p1_sum1 = np.atan(2 * zeta * ph_non_dim_freq_p1)
+ph_non_dim_freq_p2 = np.linspace(1.01,2.0,100)
+phase_response_p1_sum1 = - np.atan(2 * zeta * ph_non_dim_freq_p1)
 phase_response_p1_sum2 = np.atan((2 * zeta * ph_non_dim_freq_p1)/(1 - (ph_non_dim_freq_p1 ** 2)))
-phase_response_p1 = phase_response_p1_sum1 - phase_response_p1_sum2
+phase_response_p1 = phase_response_p1_sum1 + phase_response_p1_sum2
 
 fig3, ax3 = plt.subplots()
 ax3.set_title('VIB3705-3 Phase vs. Frequency')
