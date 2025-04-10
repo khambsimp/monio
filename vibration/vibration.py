@@ -49,9 +49,10 @@ phase_response_p1_sum2 = np.atan((2 * zeta * ph_non_dim_freq_p1)/(1 - (ph_non_di
 phase_response_p1 = phase_response_p1_sum1 + phase_response_p1_sum2
 phase_response_p2_sum1 = - np.atan(2 * zeta * ph_non_dim_freq_p2)
 phase_response_p2_sum2 = np.atan((2 * zeta * ph_non_dim_freq_p2)/(1 - (ph_non_dim_freq_p2 ** 2)))
-phase_response_p2 = phase_response_p2_sum1 + phase_response_p2_sum2 + ((phase_response_p1[-1] - phase_response_p2_sum1[0]) * np.ones(100))
+phase_response_p2 = phase_response_p2_sum1 + phase_response_p2_sum2 + ((phase_response_p1[-1] - phase_response_p2_sum1[0] - phase_response_p2_sum2[0]) * np.ones(100))
 ph_non_dim_freq = np.concatenate((ph_non_dim_freq_p1, ph_non_dim_freq_p2))
 phase_response = np.concatenate((phase_response_p1, phase_response_p2))
+print(phase_response_p1[-1])
 
 fig3, ax3 = plt.subplots()
 ax3.set_title('VIB3705-3 Phase vs. Frequency')
