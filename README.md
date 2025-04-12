@@ -57,6 +57,7 @@ At its core the study of Information concerns Human Beings, and the source of th
 and communicate it with precision.
 ## Coding Theory
 One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. The Art of Programming is an exercise in Coding Theory. We aim to take information presented, and from it generate an equivalent representation. How that encoding is done is the Art.
+## Communication Theory
 ## Category Theory
 Category Theory is a method, for categorizing relationships between different field and implementations of math. Fields of Math which seem different often have known methods for converting or applying constituent objects with one another. Category theory provides a set of common techniques to do so, while simplifying, and making more understandable, applications of proofs using different kinds of mathematics. Part Systems language, and part programming language for mathematics. Category Theory is considered an approach of mathematics which can serve as a common language for math.
 ## Group Theory
