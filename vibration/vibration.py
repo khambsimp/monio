@@ -21,19 +21,19 @@ fig.savefig("vib3705-3_load_v_deflection.pdf")
 
 # Acceptance Dynamic Test
 # Tansmissibility vs. Frequency
-zeta = 0.1
+zeta = 0.13
 
-non_dim_frequency = np.linspace(0,2.0,200)
+non_dim_frequency = np.linspace(0,2,200)
 transmiss_num = 1 + ((2 * zeta * non_dim_frequency) ** 2)
 transmiss_denom = (((1 - (non_dim_frequency ** 2)) ** 2)
     + ((2 * zeta * non_dim_frequency) ** 2))
 transmissibility = np.sqrt(transmiss_num/transmiss_denom)
 
 fig2, ax2 = plt.subplots()
-ax2.set_title('VIB3705-3 Transmissibility vs. Nondimensional Frequency')
+ax2.set_title('VIB3705-3 Transmissibility vs. Non-dimensional Frequency')
 
-# ax.set_xlim(xmin = 0.0, xmax = 0.25)
-# ax.set_ylim(ymin = 0.0, ymax = 250)
+ax2.set_xlim(xmin = 0.0, xmax = 2.0)
+ax2.set_ylim(ymin = 0.0, ymax = 4.25)
 ax2.set_xlabel('Non-dimensional Frequency')
 ax2.set_ylabel('Transmissibility')
 
@@ -42,7 +42,7 @@ ax2.grid(True)
 fig2.savefig("vib3705-3_transmissibility_v_nondimensional_frequency.pdf")
 
 # Phase Response vs. Frequency
-ph_non_dim_freq_p1 = np.linspace(0,0.99,100)
+ph_non_dim_freq_p1 = np.linspace(0.0,0.99,100)
 ph_non_dim_freq_p2 = np.linspace(1.01,2.0,100)
 phase_response_p1_sum1 = - np.atan(2 * zeta * ph_non_dim_freq_p1)
 phase_response_p1_sum2 = np.atan((2 * zeta * ph_non_dim_freq_p1)/
