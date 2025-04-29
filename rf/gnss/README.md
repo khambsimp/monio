@@ -41,30 +41,31 @@ This is the correlation function you are familiar with.
 Once the correlation function meets a threshold value the reciever proceeds into tracking mode.
 ### Frequency Domain parallel code-phase aquisition
 Low Computational complexity makes this an algorithmic implementation.
+
 *General Philosophy*
 Conduct a Fast Fourier Transform of the Pseudorandom number code, then once in the frequency domain, the code phase information is already present, therefore only the doppler frequency offser needs to be taken into account.
+
 *Implementation*
 Signal is multiplied (muxified)
 Then these are combined into a Fast Fourier Transform.
 This is multiplied by the the symmetric complex conjugate of the PRN code's Fast Fourier Transform, note these can even be stored as data beforehand.
 The Fast Fourier Transform of the signal received and of the complex conjugate of the presdorandom generator are multiplplied, and fed through an inverse fourier transform block and converted by squaring to a magnitude which once it reaches a specific threshold the receiver reverts to tracking mode.
+
 ## Tracking
 ### Overview
+The tracking phase takes the corasely aligned GPS signal frequency (carrrier frequency), and its code phase parameter, and refines it so the system can demodulate the data. This is accomplished usign a delay-lock loop.
+### Delay Lock Loop Circuit
+This Circuit multiplies the oncoming signal with three signals of slightly sifferent phase one at the incoming one early and one late. Then a correlator between the incoming signal and the preplica are minimized until a maximum correlation value is used.
+### Phase-Lock Loop Circuit
+Carrier phase (GPS Signal Frequency) locking is done by a phase-lock loop or Costas loopgenerated frequency and frequency of oncoming signal need to match.
 
+## Demodulation and Bit Synchronization
+Once acquistion and tracking are done it becomes possible to decode the navigation bits.
+Data modulation despreads the 1.023 Mbps input signal into a 1000 bits bit stream. Bit synchronomization then recovers the bit streem at 50 bits persecond. To bit synchronize we find the beginning of a single bit, then partition the 1000 bps at 20 ms intervals, this should provide us a single 50 bit navigation data message. Then bit samples across multiple 20 ms intervals are summed, and averages to decon=de the navigation data.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Conclusion
+We now have an overview of the components of a GNSS SDR including. GPs signal structure, aquisition. tracking, and bit synchronization. This RF front end provides frequency planning for Software GPDS Receivers and traditional hardware implementations. Now it is possible to choose an appropriate RF-Front
+End for GNSS-SDR.
 
 # GNSS Band
 ## GPS System (United States)
