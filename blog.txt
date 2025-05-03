@@ -139,6 +139,12 @@ Discrete Math is a computational model.
 
 Built with Lume
 
+So why though would programming feel like a type of video game? This seems almost atypical. Why would Programming and writing seem relevant is such different context yet seems eerilie familiar? Surely there are more commanlities between the two forms of expression?
+
+So some conclusions we had come to would suggest that.
+So how does Cybernetics and Automata Theory affect the greater implication of mathematics from a Computability perspective?
+
+Well first, the world is heading to a direction where the ability to instantiate an algorithm, albeit a simple one in a very low power consuming form is possible. This means that humanity is likely running into a Systems problem whereby there are so many low power algorithm instantiations that how to program them becomes difficult. Although any genral purpose programming language would be sufficient. Knowing both those things the next question becomes how to organize these instantiated algorithms to conduct an act similar to language.
 
 
 
