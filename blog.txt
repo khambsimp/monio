@@ -146,6 +146,10 @@ So how does Cybernetics and Automata Theory affect the greater implication of ma
 
 Well first, the world is heading to a direction where the ability to instantiate an algorithm, albeit a simple one in a very low power consuming form is possible. This means that humanity is likely running into a Systems problem whereby there are so many low power algorithm instantiations that how to program them becomes difficult. Although any genral purpose programming language would be sufficient. Knowing both those things the next question becomes how to organize these instantiated algorithms to conduct an act similar to language.
 
+So what are the most beneficial capabilities a programmer could have, in masse? In masse? The most crucial capabilities are to be able to develop systems whereby people can come together and code.
+
+This is why technilogies like GitHub and by extention libgit2, and by extention of that technologies like high level programming languages, open source software, and software standards, and on a large part the availability of General Purpose Processors, General Purpose Computers, and General Purpose Programming Languages, and General Purpose Operating Systems are so important. They enable people to  develop Programs within a common environment such that they can use libraries, or collections of avalable software more like systems programmers to build blocks of code at once. And more importantly withiout having to learn the internals of each Program
+they are utilizing to build Software.
 
 
 
