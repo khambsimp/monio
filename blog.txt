@@ -1,13 +1,18 @@
-The purpose of this GitHub module is to learn how to utilize GitHub. GitHub is
-an always on computer, and programming environment for developing software.
-GitHub is capable of taking a local repository, and making it available for
-download or search, anywhere the internet can literally reach them. To the full
-extent of human signaling. They have GitHub Desktop, and staying at Atom text
-editor. So you can have your C editor working, and a C++ working in a text
-editor and upload it to the internet or Github for views and exposure.
+The purpose of this GitHub module is to learn how to utilize GitHub. GitHub is an always on computing system, and programming environment for developing algorithms. GitHub is capable of taking a local repository, and making it available for incorporation into any model within network reach. Analog signaling capabilities are the only limitation here.
 
-Also the code can automatically be uploaded to a google server or amazon api
-servicer and automatically web pages can be created, and uploaded on the web.
+Mathematicians, Theoretical Computer Scientist, Nanotechnologist, Physicist, Material Scientist
+
+Mathematicians develop quantitative arguments about complex discrete systems to define the limits of the kind of systems and tools people have to interrogate them with.
+
+Theoretical computer scientists take existing Computers, and mahtematical ones and define ways that they can be used to make useful computations, and the limits of what useful computation with existing computers a re possibel. Nano technologists develop discrete systems and quantitive systems to increase the density, and lower power consumptions, along witht he large sclale manufacturing of sensors, and computers used to process information systems. Physicists focus on the power consuption of digital circuits, and the cabilities to utilize Material Science to develop useful diital circuits. Material Scientits devel Silicon, and Galilium Nitride Manufacturing processs, to develop cost effective an d accurate ways of bringing a specified Semiconductor design to material form using existing machinery.
+
+Algorithms are Video Games in so much as it is a puzzle figuring out how to achieve a high score.
+
+A module or directory is a information system.
+
+Programmers can share their work and develop extensive Systems.
+
+Also the code can automatically be uploaded to a Cloud Computer, and Monolithic Web applications generated.
 
 All from an atom text editor.
 The git editor also certain settings to find the state of a particular operation
@@ -151,7 +156,7 @@ So what are the most beneficial capabilities a programmer could have, in masse? 
 This is why technilogies like GitHub and by extention libgit2, and by extention of that technologies like high level programming languages, open source software, and software standards, and on a large part the availability of General Purpose Processors, General Purpose Computers, and General Purpose Programming Languages, and General Purpose Operating Systems are so important. They enable people to  develop Programs within a common environment such that they can use libraries, or collections of avalable software more like systems programmers to build blocks of code at once. And more importantly withiout having to learn the internals of each Program
 they are utilizing to build Software.
 
-
+The different languages you know the more strategies you have in achieving your objectives.
 
 
 
