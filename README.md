@@ -29,6 +29,8 @@ span from two individual computers to many. An information format which both enc
 
 The information computer is also vital for determining how to codify, and distribute algorithmic encoders which can develop information architecture efficiently. For instance Git is a form of radio, it is capable of sitting as an https endpoint on a host computer, and store the eventual commits of thousands of developers asynchronously. This enables programmers to develop software architecture concurrently, in a parallel fashion, and asynchronously.
 
+# Programming Language Paradigms
+
 # A Computer is a Mathematical Construct
 ## Logic
 Human Beings can reason about Computers *exactly*. Human Beings can develop written symbolic languages which represent the state of a Computer exactly. There are particular definitions of a set that represent all Discrete formulations of a Computing problem. Computers (Boolean Operators) and (Turing Complete Languages). Now these logical preceptors are also computability operators, and information encoders in the language argument and framework sense. What does a language which can be proved actually gain you? Does it mean you can use less symbols and definitions, once the axioms of said language are defined, does it mean that there are provable statements which are not apparent within the language that would be provable otherwise? Let's say, types, sets, and proofs are the logic language equivalents to a transitor, or to a single neuron. In this viewpoint, artificial automata, and biological automata, and written syntactic automata could model systems of comparable complexity. One of the best ways for people to manage large scale complexity is to develop symbolic logic that can describe or model interconnected systems, and then relate that to natural language.
@@ -45,6 +47,7 @@ Oftentimes to define efficient algorithms a symbolic representation must be crea
 Cryptography includes the preservation of information across physical spaces and in the event that data has been corrupted intentionally, this is especially important in proving the validity of data within networks.
 ## Programming Language Theory
 Programming Language theory includes the development of natural language shorthand that is related Turing machines which operate on discrete systems in a way which people can reason about them.
+## Homotopy Type Theory
 ## Type Theory
 Type Theory is a Logic  Language created to further abstract the consolidation of language within a programming language, making complex functions succint in their description of off nominal notions. The type theory referenced here is more directly applicable to Martin Lowe Type Theory or Intuitionistic Type Theory, and is applied in Discrete Mathematic forum by way of Homotopy Type Theory. Homotopy Type Theory has found its way into Theorom Solvers an Program Type where it has been successful informalizing notions of proof based on Conjecture, and Hypothesis. This is
 ## Formal Languages
@@ -79,6 +82,24 @@ Group Theory, similar to category theory is thought of as a possible common lang
 There are a number of techniques for conducting Coding Theory, that is utilizing discrete data to develop codified information of data within multiple layers of abstraction.
 ## Artifical Intelligence
 Artificial Intelligence is form of Digital Filtering involving parallel architectures. These are often described as matrices, however, these are topologically similar to neural nets. These matrices define architectures for storing associations between statistically consistent data, one of these being written speech.
+# Science
+## Information Science
+## Network Science
+## Data Science
+## Computer Science
+
+# Architecture
+## Software Architecture
+## System Architecture
+## Computer Architecture
+## Chip Architecture
+
+# Industry
+## Telecommunications Industry
+## Software Industry
+## Computer Industry
+## Semiconductor Industry
+## Electrical Industry
 # Blog
 This is the first instantiation of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
 ## Internet of Things
