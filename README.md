@@ -14,8 +14,8 @@ The independent development of written language has occurred only four times in 
 
 # Computing Paradigms
 ## Personal Computing
-There are similarities in the way that human beings comprehend Computers. In essence it amounts to how we architect information in a way that it can be processed correctly, and computably using logic, arithmetic, and integer math. To process large swathes of information we tend to develop abstractions. These abstractions can be deduced to amount to logic, arithmetic, and integers when analyzed and optimized. However, we use abstractions to communicate with other humans, based on the specific way the computable functions have been implemented in physical reality. This project address how, our theoretical, and mathematical conceptualizations of computing affect, the implemented and as designed languages, and processors used to store and compute the information within our lives. Games. To an extent the gamification of programming does respect an aspect of how information and onowledge fundamentallu accumulage within society. By this is intentioned our tendencies to develop information like legos. Fundamentally what makes computability and recursion so alluring is the idea it
-wiuld enable us to develop a systematic information framework, thag oike loading a sonic game on gamecube, would first load this history and language framework we were familiar with, in the case Nintendo, and then within that framework be amble to navigate within an existing framework of a menu and levels, and where we would have a simple instrument or interface, be it a gamecube controller, or in this case a keyboard and command line interface. Either eay for people to have a small universe they can make isolqted changes within, this is key, small insulatd changes that qlthough deliberate lead to an outcome we can measure is immense. it feels like sonic superpowers. Also text generation on these devices is strqight up horrible, but will be remedied in time. In any case, being able to make changes builds confidence in a person to consistently make changes to a worldwide database over time slowly steering the accumulation of information itself. It is important to preserve this interface, such that people everywhere are able to whift and impact the development of society, in their own way
+There are similarities in the way that human beings comprehend Computers. In essence it amounts to how we architect information in a way that it can be processed correctly, and computably using logic, arithmetic, and integer math. To process large swathes of information we tend to develop abstractions. These abstractions can be deduced to amount to logic, arithmetic, and integers when analyzed and optimized. However, we use abstractions to communicate with other humans, based on the specific way the computable functions have been implemented in physical reality. This project address how, our theoretical, and mathematical conceptualizations of computing affect, the implemented and as designed languages, and processors used to store and compute the information within our lives. Games. To an extent the gamification of programming does respect an aspect of how information and knowledge fundamentally accumulage within society. From an architectural standpoint we have tendencies to develop information like legos. Fundamentally, what makes computability and recursion so alluring is the idea they
+would enable us to develop a systematic information framework, that like loading a sonic game on gamecube, would first load this history and language framework we were familiar with, in the case Nintendo, and then within that framework be amble to navigate within an existing framework of a menu and levels, and where we would have a simple instrument or interface, be it a gamecube controller, or in this case a keyboard and command line interface. Either eay for people to have a small universe they can make isolqted changes within, this is key, small insulatd changes that qlthough deliberate lead to an outcome we can measure is immense. it feels like sonic superpowers. Also text generation on these devices is strqight up horrible, but will be remedied in time. In any case, being able to make changes builds confidence in a person to consistently make changes to a worldwide database over time slowly steering the accumulation of information itself. It is important to preserve this interface, such that people everywhere are able to whift and impact the development of society, in their own way
 and at their  own pace. The cursor placement is literally illogical.
 
 ## Cloud Computing
@@ -29,12 +29,26 @@ span from two individual computers to many. An information format which both enc
 
 The information computer is also vital for determining how to codify, and distribute algorithmic encoders which can develop information architecture efficiently. For instance Git is a form of radio, it is capable of sitting as an https endpoint on a host computer, and store the eventual commits of thousands of developers asynchronously. This enables programmers to develop software architecture concurrently, in a parallel fashion, and asynchronously.
 
+# Programming Language Paradigms
+
 # A Computer is a Mathematical Construct
 ## Logic
 Human Beings can reason about Computers *exactly*. Human Beings can develop written symbolic languages which represent the state of a Computer exactly. There are particular definitions of a set that represent all Discrete formulations of a Computing problem. Computers (Boolean Operators) and (Turing Complete Languages). Now these logical preceptors are also computability operators, and information encoders in the language argument and framework sense. What does a language which can be proved actually gain you? Does it mean you can use less symbols and definitions, once the axioms of said language are defined, does it mean that there are provable statements which are not apparent within the language that would be provable otherwise? Let's say, types, sets, and proofs are the logic language equivalents to a transitor, or to a single neuron. In this viewpoint, artificial automata, and biological automata, and written syntactic automata could model systems of comparable complexity. One of the best ways for people to manage large scale complexity is to develop symbolic logic that can describe or model interconnected systems, and then relate that to natural language.
 So what have you humble learned about Logic? Well I have learned that logic is an administering of a context to natural language in such way that it is resonable to expect that it could preserve truth in a way that its symbols could be expressed recursively. the two language frameworks where we most often encounter these are within mathematics and computer science. This is because for these two language families to be highly effective in describing a variety of phenomena utilizing recursive language is one of the most effective ways to do so.
+<<<<<<< HEAD
 Can Deductive reasoinging and recursion be used to develop understanding in other areas of Science. The growth of Logic Notations of which Programming Languages are a single instance of suggests this is currently administered to knowledge of our current age.In the field of Digital Logic Circuit Design, we see a direct application of Symbolic Logic Theory, including in their application to Hardware Description Languages as an example. It is also important that
 in the case where an aspect of cognition can be written with its own symbology which also has recursive properties that this is imprtant for understanding both mathematics and logic from a cognitive perspective. That being Symbolic Logic Theory. Logic can be approached from a Philosophical, Linguistic, and Mathematical perspective. In terms of Programming Language Theory we are able to use any which aids our particular purpose of defined terms. Currently Typer Theories and Homotopy Type Theory seems to be the most applicable to dveevelopment of Hardware Desciption Languages.
+=======
+
+
+Can Deductive reasoinging and recursion be used to develop understanding in other areas of Science. The growth of Logic Notations of which Programming Languages are a single instance of suggests this is currently administered to knowledge of our current age.In the field of Digital Logic Circuit Design, we see a direct application of Symbolic Logic Theory, including in their application to Hardware Description Languages as an example. It is also important that
+in the case where an aspect of cognition can be written with its own symbology which also has recursive properties that this is imprtant for understanding both mathematics and logic from a cognitive perspective. That being Symbolic Logic Theory. Logic can be approached from a Philosophical, Linguistic, and Mathematical perspective. In terms of Programming Language Theory we are able to use any which aids our particular purpose of defined terms. Currently Typer Theories and Homotopy Type Theory seems to be the most applicable to dveevelopment of Hardware Desciption Languages.
+
+whats the role of a Logician in the Semicondictor industry?
+
+
+
+
 
 ## Discrete Mathematics
 Discrete Mathematics is a logical, quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques for scalable constructs useful within a context of Computing. Programmers can program natural numbers and integers reflexively.
@@ -46,6 +60,7 @@ Oftentimes to define efficient algorithms a symbolic representation must be crea
 Cryptography includes the preservation of information across physical spaces and in the event that data has been corrupted intentionally, this is especially important in proving the validity of data within networks.
 ## Programming Language Theory
 Programming Language theory includes the development of natural language shorthand that is related Turing machines which operate on discrete systems in a way which people can reason about them.
+## Homotopy Type Theory
 ## Type Theory
 Type Theory is a Logic  Language created to further abstract the consolidation of language within a programming language, making complex functions succint in their description of off nominal notions. The type theory referenced here is more directly applicable to Martin Lowe Type Theory or Intuitionistic Type Theory, and is applied in Discrete Mathematic forum by way of Homotopy Type Theory. Homotopy Type Theory has found its way into Theorom Solvers an Program Type where it has been successful informalizing notions of proof based on Conjecture, and Hypothesis. This is
 ## Formal Languages
@@ -80,6 +95,24 @@ Group Theory, similar to category theory is thought of as a possible common lang
 There are a number of techniques for conducting Coding Theory, that is utilizing discrete data to develop codified information of data within multiple layers of abstraction.
 ## Artifical Intelligence
 Artificial Intelligence is form of Digital Filtering involving parallel architectures. These are often described as matrices, however, these are topologically similar to neural nets. These matrices define architectures for storing associations between statistically consistent data, one of these being written speech.
+# Science
+## Information Science
+## Network Science
+## Data Science
+## Computer Science
+
+# Architecture
+## Software Architecture
+## System Architecture
+## Computer Architecture
+## Chip Architecture
+
+# Industry
+## Telecommunications Industry
+## Software Industry
+## Computer Industry
+## Semiconductor Industry
+## Electrical Industry
 # Blog
 This is the first instantiation of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
 ## Internet of Things
