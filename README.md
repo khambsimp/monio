@@ -46,7 +46,7 @@ Human Beings can reason about Computers, and communicate their reasoning to one 
 
 So what have you humble learned about Logic? Well I have learned that logic is an administering of a context to natural language in such way that it is resonable to expect that it could preserve truth in a way that its symbols could be expressed recursively. the two language frameworks where we most often encounter these are within mathematics and computer science. This is because for these two language families to be highly effective in describing a variety of phenomena utilizing recursive language is one of the most effective ways to do so.
 
-Can Deductive reasoinging and recursion be used to develop understanding in other areas of Science. The growth of Logic Notations of which Programming Languages are a single instance of suggests this is currently administered to knowledge of our current age.In the field of Digital Logic Circuit Design, we see a direct application of Symbolic Logic Theory, including in their application to Hardware Description Languages as an example. It is also important that
+Can Deductive reasoning and recursion be used to develop understanding in other areas of Science. The growth of Logic Notations of which Programming Languages are a single instance of suggests this is currently administered to knowledge of our current age.In the field of Digital Logic Circuit Design, we see a direct application of Symbolic Logic Theory, including in their application to Hardware Description Languages as an example. It is also important that
 in the case where an aspect of cognition can be written with its own symbology which also has recursive properties that this is imprtant for understanding both mathematics and logic from a cognitive perspective. That being Symbolic Logic Theory. Logic can be approached from a Philosophical, Linguistic, and Mathematical perspective. In terms of Programming Language Theory we are able to use any which aids our particular purpose of defined terms. Currently Typer Theories and Homotopy Type Theory seems to be the most applicable to dveevelopment of Hardware Desciption Languages.
 
 What is the role of a Logician in the Semicondictor industry?
@@ -89,6 +89,7 @@ At its core the study of Information concerns Human Beings, and the source of th
 and communicate it with precision.
 ## Coding Theory
 One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. The Art of Programming is an exercise in Coding Theory. We aim to take information presented, and from it generate an equivalent representation. How that encoding is done is the Art.
+One way to express this concept of coding theory is the aliteration between the languages of logic, mathematics, programming languages, and science. In order to understand the language of information we look for patterns, to express those patterns in a scalable manner, we develop algorithms to express them, to document and argue with greater society we develop papers, which are in turn framed in an argumentative manner.
 ## Communication Theory
 Communication Theory includes methods or techniques to derive ways to encode language systems within one another. A great example is in terms of definifng integers, it is known that integers can essentially be encoded or written in terms of any other integer greater than intself. However, utilizing concepts of promes or of even and odd numbers it becomes more worthwhile to encode certain integers in terms of one another using mathematical properties of integers to decrease the amount of information or bits required to define the number itself.
 ## Category Theory
@@ -102,7 +103,7 @@ There are a number of techniques for conducting Coding Theory, that is utilizing
 Artificial Intelligence is form of Digital Filtering involving parallel architectures. These are often described as matrices, however, these are topologically similar to neural nets. These matrices define architectures for storing associations between statistically consistent data, one of these being written speech.
 # Science
 ## Information Science
-Incorporates Continuous, Discrete and Statitistical Mathematics within a Set theoretic framework to develop concept on how information can be encoded in another mathematican form, and what drawbacks, if any are there to the encoding or decoding process. This also includes the results when these algorithms are implemented are there yields similar? Why or why not?
+Incorporates Continuous, Discrete and Statistical Mathematics within a Set theoretic framework to develop concept on how information can be encoded in another mathematican form, and what drawbacks, if any are there to the encoding or decoding process. This also includes the results when these algorithms are implemented are there yields similar? Why or why not?
 ## Network Science
 ## Data Science
 ## Computer Science
@@ -113,6 +114,9 @@ Incorporates Continuous, Discrete and Statitistical Mathematics within a Set the
 ## Computer Architecture
 What is Computer Architecture and what components of it are remnants of culture or tradition, and which portion is quantitatively supported?
 ## Chip Architecture
+## Instruction Set Architecture
+Let us examine instruction set architectures for a moment. Architecture involves an interplay between design, qualitative analysis, quantitative analysis, and language. One of the largest problems in the development of an architecture is how abstract design decisions (information) must be quantitatively analyzed versus one another, then expressed as algorithmic, or pseudo algorithmic language, then the overall archiecture must be typeset, and qualitatively analyzed, and then expressed in as a formal language, which is in turn analyzed with addtional algorithmic languages, at which point the architecture can now be expressed and typeset in qualitative form, as well as have quantitative properties inset. After the Architecure is Typeset it can be expressed as less formal algorithmic languages, and then simulated, thereby generating even more information.
+Reduced Instruction Set Architecture, Complex Instruction Set Architecture, Very Long Instruction Word Architecture.
 
 # Industry
 ## Telecommunications Industry
