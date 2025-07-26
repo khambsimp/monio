@@ -86,6 +86,10 @@ Cybernetics more colesely involves the interplay between the human and the machi
 ## Information Theory
 At its core the study of Information concerns Human Beings, and the source of their Language capabilities. Human Beings have developed Language over time to to develop written, auditory, handsignal, and other renditions of language which can be percieved by their senses. Lingustics, natural language, math, are all attemps by people to codify and extend their senses and consitiutue ad physical rendition of information. An information which does not only rever to Natural Phenomena but, may refer to aspects of human creativity, history, folklore, and abstract. Information Theory constitutes the until now understanding of how information can be perserved and communicated to human beings, and the extent to which we can construe and perserve language over time,
 and communicate it with precision.
+
+So, there is a chance that Information can be defined as a symbolic expression which can be quantified within the contect of statistics, discrete mathematics, and continuous mathematics. That is the perspective we will take here. Additonally, it is apparent that Set Theory and Proof thoery can be used as an axiomatic basis for mathematics, such that information within each of these numerical domains can be conceptualized comparatively.
+
+A great guide on how to do so is given by Claude Shannon in a mathematical theory of communication.
 ## Coding Theory
 One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. The Art of Programming is an exercise in Coding Theory. We aim to take information presented, and from it generate an equivalent representation. How that encoding is done is the Art.
 One way to express this concept of coding theory is the aliteration between the languages of logic, mathematics, programming languages, and science. In order to understand the language of information we look for patterns, to express those patterns in a scalable manner, we develop algorithms to express them, to document and argue with greater society we develop papers, which are in turn framed in an argumentative manner.
@@ -116,10 +120,14 @@ What is Computer Architecture and what components of it are remnants of culture 
 ## Instruction Set Architecture
 Let us examine instruction set architectures for a moment. Architecture involves an interplay between design, qualitative analysis, quantitative analysis, and language. One of the largest problems in the development of an architecture is how abstract design decisions (information) must be quantitatively analyzed versus one another, then expressed as algorithmic, or pseudo algorithmic language, then the overall archiecture must be typeset, and qualitatively analyzed, and then expressed in as a formal language, which is in turn analyzed with addtional algorithmic languages, at which point the architecture can now be expressed and typeset in qualitative form, as well as have quantitative properties inset. After the Architecure is Typeset it can be expressed as less formal algorithmic languages, and then simulated, thereby generating even more information.
 Reduced Instruction Set Architecture, Complex Instruction Set Architecture, Very Long Instruction Word Architecture.
+Instruction set architecture is but this start , this is relaized as an abstract, Logic, English written, and Discrete Mathematical blueprint for a conceptual architecture, which if implemented can express the logic state transitions which
+are indicative of an information system.
 
 # Industry
 ## Telecommunications Industry
 ## Software Industry
+What is wrong with the Software industry of today? Simply put, the Software of today does not (think about why the
+google elegant enclosure server, and modular phone never actually took off.) The prevailing sentiment today is that software is something that experts do, and not something that artists do, that writiers do. Information has a need to not just persist, but through is never ending entropic undulations to manifest itself in different forms over, and over again.
 ## Computer Industry
 Generally, how why does engineering feel different to you, and what are you trying to get out of it which is different?
 Engineering to me is a creative pursuit where I am trying to determine and explore what is possible though the act of building. How do you know what is possible without actually building it. Many of the most beneficial inventions from a societal stanpoint are complex in terms of integration, hwoever, provide society exponential improvements. As an Engineer, I am exploring the realm of Mathematics, Sciences, exisitng Engineeering, and Existing Technology to look for, and explore ways to propose to society a solution it had not considered before.I don't know the outcome, and choose to mass produce ones where I belive the net benefit it worth the resourse requirement to society and the environment.Sometimes, I don't get to explore all of this but I can begin work, and frame it in a language where others can continue where I left off.
@@ -133,6 +141,7 @@ We are aware that most mathematics can be expressed as a numericalcal and algrbr
 What does the relation to Set Theory, Type Theory, Homotopy Type Theory buy us? These give us a framework to prove expressions, and ensure that symbology is consistent.
 
 ## Semiconductor Industry
+In the future a Semiconductor foundry will be a Cybernetic entity where, after passing it a Process file, and a Lithography design file, it will produce processors of a particular design using a specific process node. What is holding us back from that future?
 ## Electrical Industry
 # Blog
 This is the first instantiation of the monio computer, an information translator. Input is markdown, and this is graphically communicated to the observer through repeated exposure. The direct approach.
