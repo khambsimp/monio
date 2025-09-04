@@ -51,24 +51,37 @@ in the case where an aspect of cognition can be written with its own symbology w
 
 What is the role of a Logician in the Semicondictor industry?
 The role of the logician is to develop and to distribute languages that can be used in a technical fashion.
+
+## Symbolic Logic Theory
+In particular Symbolic Logic Theory is a peculiarity because it suggest that there is a method for defining in a written form logical aspects within language. Meaning that language itself would generate a particular amount or form of information in a succint manner.
+
 ## Type Theory
 Type Theory is a Logic  Language created to further abstract the consolidation of language within a programming language, making complex functions succint in their description of off nominal notions. The type theory referenced here is more directly applicable to Martin Lowe Type Theory or Intuitionistic Type Theory, and is applied in Discrete Mathematic forum by way of Homotopy Type Theory. Homotopy Type Theory has found its way into Theorom Solvers an Program Type where it has been successful informalizing notions of proof based on Conjecture, and Hypothesis. This is
+
 ## Formal Languages
 Formal Languages are logic languages more related to shorthand logic and discrete notions with a natural language.
 
 ## Homotopy Type Theory
-Homotopy Type Theory can be utilized to develop instruction set architectures, and microcontrollers using a Hardware Description Language, this can be utilized to develop Microcontrollers which are far simpler in design, and can be reasoned and verified using modern tools without the design verification being reasoned about by the Chip designer. Not to the extent that designers are expected to today. Logicians are particularly impact by this developments of Logic Languages, which can serve as foundatiosn for mathematics for the reason that Information Systems which are defined on a mathematical premise are often scalable. This scalability means that when these architectures are implemented or applied in a large scale integration or manaufacturing capacity that general pupose architectures can be developed which incorporate an ability to recieve and transmit a variety of discrete and continuous signals. Making these architectures, versatile, yet also low power, yet also enable people to veridy and quantify the performance of a particular design versus another before a full manufacturing process has been developed.
+There are many artificial languages which can be created, however, the intracacies of a few are peculiar.
+Homotopy Type Theory can be utilized to develop instruction set architectures, and microcontroller algorithm logic units using a Hardware Description Language, this can be utilized to develop Microcontrollers which are far simpler in design, and can be reasoned and verified using modern tools without the design verification being reasoned about by the Chip designer. Not to the extent that designers are expected to today. Logicians are particularly impact by this developments of Logic Languages, which can serve as foundatiosn for mathematics for the reason that Information Systems which are defined on a mathematical premise are often scalable. This scalability means that when these architectures are implemented or applied in a large scale integration or manaufacturing capacity that general pupose architectures can be developed which incorporate an ability to recieve and transmit a variety of discrete and continuous signals. Making these architectures, versatile, yet also low power, yet also enable people to veridy and quantify the performance of a particular design versus another before a full manufacturing process has been developed.
+
+Homotopy Type Theory has a large symbolic overhead, as a Math, however, it also integrates pathways for mathematical
+indusction for many expressions working mathematicians are familiar with. For Computer Scientists a Language
+like this is excellent for devleoping Theorem Solvers, and Functional PRogramming Language complilers.
+However, this is also useful when developing an instruction set. Instruction Sets are an architecture for a repeating
+set of interconnected functions which are designed to maniputlate discrete mathematics at scale, and utilizing very
+little power. In order to reason, design, and analyze instruction set architectures against one another, requires an encoding capability, similar to the construction of a Functional Programming Language, or theorem modules of a Theorem solver.
 
 ## Discrete Mathematics
 Discrete Mathematics is a logical, quantitative basis for scalable Algorithms and Computer Science in general. Programmers require a foundational framework to reason about Computers, Data, Information, and Networks. Discrete Mathematics tends to focus on, and provide useful techniques for scalable constructs useful within a context of Computing. Programmers can program natural numbers and integers reflexively. Mathematical Notation.
 ## Algorithms
-Or Algebra designated for Discrete Mathematics, abstracts different approaches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods. algorithmic Analysis is ever more important. Similar to Real Analysis, Algorithmic Analysis presents a number of techniques from Applied Complexity Theory, Applied Programming Language Theory, and Applied Automata theory to derive and compare the real world performance of Algorithms and Data Structures. To what extent can we determine the expected as implemented program to run in finite time or energy. To what extent do these match performance of engineered Computers?
+Or Algebra designated for Discrete Mathematics, abstracts different approaches to define discrete functions using variables. Algebra and Algorithms are intimately related. Algorithms and Algorithmic Analysis institute a formal way to estimate the performance of a program using analytic methods. Algorithmic analysis is ever more important. Similar to Real Analysis, Algorithmic Analysis presents a number of techniques from Applied Complexity Theory, Applied Programming Language Theory, and Applied Automata theory to derive and compare the real world performance of Algorithms and Data Structures. To what extent can we determine the expected as implemented program to run in finite time or energy. To what extent do these match performance of engineered Computers?
 ## Data Structures
 Oftentimes to define efficient algorithms a symbolic representation must be created for both the algorithm and the data it operates upon.  When Algorithmic Analysis is applied to large scale programs, the problem of how memory and data are accessed impact the performance of a program and its scalable nature.
 ## Programming Language Theory
 Programming Language theory includes the development of natural language shorthand that is related Turing machines which operate on discrete systems in a way which people can reason about them. Programming Language Paradigm how suseful or not are they?
 ## Cryptography
-Cryptography includes the preservation of information across physical spaces and in the event that data has been corrupted intentionally, this is especially important in proving the validity of data within networks.s
+Cryptography includes the preservation of information across physical spaces and in the event that data has been corrupted intentionally, this is especially important in proving the validity of data within networks.
 ## Theory of Computation
 Theory of Computation is large collection of organized methods for using number theory to describe the construction and description of large computable and realizable systems that can be reasoned about to the same magnitude. Theory of Computation derrides a few fundamental changes in aspects and approaches for the development of computing resources. These include the Theory of Cmputations, Computability Theory, Automata Theory and Complexity Theory. Theory of Computation encompasses our methods of making computing, simpler, more time and energy efficient, and easier for programmers to express.
 ## Computability Theory
@@ -90,6 +103,9 @@ and communicate it with precision.
 So, there is a chance that Information can be defined as a symbolic expression which can be quantified within the contect of statistics, discrete mathematics, and continuous mathematics. That is the perspective we will take here. Additonally, it is apparent that Set Theory and Proof thoery can be used as an axiomatic basis for mathematics, such that information within each of these numerical domains can be conceptualized comparatively.
 
 A great guide on how to do so is given by Claude Shannon in a mathematical theory of communication.
+
+To an extent information theory and theory of computation are related. How?
+
 ## Coding Theory
 One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. The Art of Programming is an exercise in Coding Theory. We aim to take information presented, and from it generate an equivalent representation. How that encoding is done is the Art.
 One way to express this concept of coding theory is the aliteration between the languages of logic, mathematics, programming languages, and science. In order to understand the language of information we look for patterns, to express those patterns in a scalable manner, we develop algorithms to express them, to document and argue with greater society we develop papers, which are in turn framed in an argumentative manner.
