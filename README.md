@@ -82,6 +82,13 @@ Oftentimes to define efficient algorithms a symbolic representation must be crea
 Programming Language theory includes the development of natural language shorthand that is related Turing machines which operate on discrete systems in a way which people can reason about them. Programming Language Paradigm how suseful or not are they?
 ## Cryptography
 Cryptography includes the preservation of information across physical spaces and in the event that data has been corrupted intentionally, this is especially important in proving the validity of data within networks.
+
+## Recursion Theory
+Recursion Theory and Computability Theory are actually two sides of the same coin. It is the analogy between Writing, and Programming. That is to say, if we were to interrogate mathematics, as a language, there are a particular set of incongruencies we would become familiar with. One is, for every
+set of functions we define, can every single one be expressed mathematically? Or could we utilize methods like analysis, like algorithms to rigidly define the content of every function we utilize?
+
+The answer is no. There are functions which can be defined on natural numbers, which however would not have a mechanistic expression which define them. And this would suggest that when working and conducting mathematics, many of the expressions which we employ do not have universal, and or objective definitions which can be rigidly defined. That is, they are intuitive, and employ a notion of how we might expect a mathematics to operate.
+
 ## Theory of Computation
 Theory of Computation is large collection of organized methods for using number theory to describe the construction and description of large computable and realizable systems that can be reasoned about to the same magnitude. Theory of Computation derrides a few fundamental changes in aspects and approaches for the development of computing resources. These include the Theory of Cmputations, Computability Theory, Automata Theory and Complexity Theory. Theory of Computation encompasses our methods of making computing, simpler, more time and energy efficient, and easier for programmers to express.
 ## Computability Theory
