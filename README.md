@@ -128,6 +128,8 @@ There is learning another Language, a Math, a Programming Language, and then the
 learning architecture, design, by hand an paper. Language itself is an evolution, a manifestaion
 of sorts, which occurs in the meditation of the hippocampus. 
 
+## Communication Theory
+
 ## Coding Theory
 One of the great efficiencies in Computer Science is being able to say a lot with a little. That is not to just optimize processing, but to determine what and why information in particular should be processed in the first place. In a sense Computer Scientists analyze their framing of a problem in the same way they are adept at picking out to to use when working on a particular one. The Art of Programming is an exercise in Coding Theory. We aim to take information presented, and from it generate an equivalent representation. How that encoding is done is the Art.
 One way to express this concept of coding theory is the aliteration between the languages of logic, mathematics, programming languages, and science. In order to understand the language of information we look for patterns, to express those patterns in a scalable manner, we develop algorithms to express them, to document and argue with greater society we develop papers, which are in turn framed in an argumentative manner.
