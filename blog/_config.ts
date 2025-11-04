@@ -1,5 +1,5 @@
 import lume from "lume/mod.ts";
-import fonts from "lume/plugins/google_fonts.ts";
+import fonts from "lume/plugins/fonts.ts";
 
 const site = lume({
   src: "./src",
