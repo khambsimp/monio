@@ -3,7 +3,7 @@ import fonts from "lume/plugins/google_fonts.ts";
 
 const site = lume({
   src: "./src",
-  dest: "./_site"
+  dest: "./_site",
 });
 
 site.use(fonts({
