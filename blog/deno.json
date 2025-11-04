@@ -11,5 +11,12 @@
     "types": [
       "lume/types.ts"
     ]
+  },
+  "permissions": {
+  "lume": {
+    "net": [
+      "fonts.googleapis.com:443",
+      "fonts.gstatic.com:443"
+    ]
   }
 }
