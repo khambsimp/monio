@@ -1,11 +1,7 @@
 {
   "imports": {
-<<<<<<< HEAD
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.1.1/",
     "lume/jsx-runtime": "https://cdn.jsdelivr.net/gh/oscarotero/ssx@0.1.12/jsx-runtime.ts"
-=======
-    "lume/": "https://deno.land/x/lume@v3.1.1/"
->>>>>>> 30eb3a92149f7eb36caf7741717e4218f4d38f52
   },
   "tasks": {
     "lume": {
@@ -22,32 +18,20 @@
     }
   },
   "compilerOptions": {
-    "types": [
-      "lume/types.ts"
-    ],
+    "types": ["lume/types.ts"],
     "jsx": "react-jsx",
     "jsxImportSource": "lume"
   },
   "permissions": {
     "lume": {
-      "net": [
-        "fonts.googleapis.com:443",
-        "fonts.gstatic.com:443"
-      ]
+      "net": ["fonts.googleapis.com:443", "fonts.gstatic.com:443"]
     }
   },
-  "unstable": [
-    "temporal",
-    "fmt-component"
-  ],
+  "unstable": ["temporal", "fmt-component"],
   "lint": {
-    "plugins": [
-      "https://cdn.jsdelivr.net/gh/lumeland/lume@3.1.1/lint.ts"
-    ],
+    "plugins": ["https://cdn.jsdelivr.net/gh/lumeland/lume@3.1.1/lint.ts"],
     "rules": {
-      "exclude": [
-        "no-import-prefix"
-      ]
+      "exclude": ["no-import-prefix"]
     }
   },
   "lock": false
