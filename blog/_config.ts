@@ -1,14 +1,11 @@
 import lume from "lume/mod.ts";
-import fonts from "lume@v3.1.1/plugins/fonts.ts";
 
 const site = lume({
   src: "./src",
   dest: "./_site",
+  fontsFolder: "/fonts",
 });
 
-site.use(fonts({
-  fonts:
-    "https://fonts.google.com/share?selection.family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900",
-}));
+site.add("/styles.css");
 
 export default site;

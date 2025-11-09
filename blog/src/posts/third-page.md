@@ -1,5 +1,5 @@
 ---
-layout: layout.vto
+layout: vento-page.vto
 title: My third page
 ---
 # Third page

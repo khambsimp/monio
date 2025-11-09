@@ -1,0 +1,25 @@
+---
+title: Welcome to my page
+layout: layout.vto
+links:
+  - text: My Bluesky
+    url: https://kham31.bsky.social/
+  - text: My GitHub profile
+    url: https://github.com/khambsimp
+---
+
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <ul>
+    {{ for link of links }}
+    <li>
+      <a href="{{ link.url }}">
+        {{ link.text }}
+      </a>
+    </li>
+    {{ /for }}
+  </ul>
+</article>
