@@ -2,9 +2,10 @@
 # Theory of Communication
 
 import math
+
 #
 # the binary set is B = {0,1}
-b = {0,1}
+b = {0, 1}
 # If this were an automata or turing machine it would be have
 # a state which could be communicated with the two symbols expressed above.
 # Units of information represented by symbols:
