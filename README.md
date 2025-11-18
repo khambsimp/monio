@@ -96,6 +96,14 @@ How is Theory of Computation related to Information Theory? Theory of Computatio
 fundatmental operations of a discrete optimizer, however, it does not describe the operation by which, or
 how, information came to be discretized initially.
 
+Some quick notes on Theory of Computation. Interestingly we can kote how we live in an era where the growth of memory and logic gate "accrual" was/is exponential in nature. What is interesting is that in this instance, however, the growth of Discrete Mathematics, and assumptions on the growth of Information related, and complexity like problems, would take advantage of the so-called Kunth double arrow notation to define or discuss the develoment of discrete theories, and the evaluations of large functions of the sort. Nwo there is more to add here. A major goal of Computer Scienctists, and Mathematicians would be to do the most with what you have. It would seem that from a theoretical standpoint that most, if not all simple computers do break down to this notion of a banarigate, or binary variable evaluator, and a place to store said bariary value. These would amount to the "Turing Machine" advocated by Alan Turing. However, one would think given such a construction that is Symbolically defined, that any problem defined as a discrete structure could eb avaluated a reasonable response found, and expropriated. These would be answers, which are expressible in numerical terms, however, would essentially prove or evaulate various conjectures within mathemathematics making them solvable, thereby expropriatable as Theorems. So one framework problem may be evaluated as are larger more complex computers actually more powerful than one another in solving mathematical problems? Case and point. One way to solve a mathematical problem is by using Symbolic Logic Theory, Homotopy Type Theory, Set Theory/Proof Theory (Discrete Mathematics) this is the symboloic language mathematical interpretation. Another way is using a Computer to simulate the problem. Here, we have the options up to and including, Microcontrollers:
+Which have the following typical Turing Machine Properties.
+Another possibility is using a Microcomputer:
+Which have the following typical Turing Machine Properties.
+Another Possibility is using a Server and Storage:
+Which have the following typical Turing Machine Properties.
+Another Possibility is using a Cloud Computer
+
 
 
 ## Computability Theory
