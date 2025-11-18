@@ -103,8 +103,14 @@ Which have the following typical Turing Machine Properties.
 Another Possibility is using a Server and Storage:
 Which have the following typical Turing Machine Properties.
 Another Possibility is using a Cloud Computer
+Processor Cores:
+Dynamic Memory:
+Storage: 1 Exabyte
+Power: Watts
 
-
+What is the important portion that Mathematics has taught you about Theory of Computation. First, and this is most clear
+that while phyiscs and even astrophysics, and cosmology tend to scale at exponential laws this is not true of Information Science, and Information Theory which scale at double arrow scales. As such given the power limitations on earth, which are physical, these scale at exponential laws. Information Theory, and Information Science scale at so far it would seem Knuth Double arrow Laws. It would seem that the Halting problem although (unsolvable) may not actually be. These constructions that one can create using turing machines seem to point to Knuth double arrow notiation when people review information scaling laws. As such these laws rapidly scale beyond the capacity to simulate on real world physics limited processors which leaves the reader to refer to the aformentioned Symbolic Logic Theory to approximate, and reson about their behavior.  Which leaves the question are mathematicians required to rely on symbolic logic to approcimate the behavior of large scale computers to approxiate the power required for them to simulate information. and are there problems which would regardless of the sophistication or scale of an implemented computer still be unsolvable leading to
+the assumed limitation of an unsolvable Halting problem.
 
 ## Computability Theory
 This concerns where and to what extent ever more complex computable languages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data were made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is definable within the computer language makes computability a conscious abstract solution to a posed data analysis. If it is impossible to define a computing language that can distill whether any mathematical statement were true or false, what is the minimum number of rules and guidance that should be made so that a computer or definable language could determine the extent to which a  mathematical statement is correct or false?
