@@ -98,9 +98,27 @@ how, information came to be discretized initially.
 
 Some quick notes on Theory of Computation. Interestingly we can kote how we live in an era where the growth of memory and logic gate "accrual" was/is exponential in nature. What is interesting is that in this instance, however, the growth of Discrete Mathematics, and assumptions on the growth of Information related, and complexity like problems, would take advantage of the so-called Kunth double arrow notation to define or discuss the develoment of discrete theories, and the evaluations of large functions of the sort. Nwo there is more to add here. A major goal of Computer Scienctists, and Mathematicians would be to do the most with what you have. It would seem that from a theoretical standpoint that most, if not all simple computers do break down to this notion of a banarigate, or binary variable evaluator, and a place to store said bariary value. These would amount to the "Turing Machine" advocated by Alan Turing. However, one would think given such a construction that is Symbolically defined, that any problem defined as a discrete structure could eb avaluated a reasonable response found, and expropriated. These would be answers, which are expressible in numerical terms, however, would essentially prove or evaulate various conjectures within mathemathematics making them solvable, thereby expropriatable as Theorems. So one framework problem may be evaluated as are larger more complex computers actually more powerful than one another in solving mathematical problems? Case and point. One way to solve a mathematical problem is by using Symbolic Logic Theory, Homotopy Type Theory, Set Theory/Proof Theory (Discrete Mathematics) this is the symboloic language mathematical interpretation. Another way is using a Computer to simulate the problem. Here, we have the options up to and including, Microcontrollers:
 Which have the following typical Turing Machine Properties.
+Processor: 32 Bit Arm Cortex M7 CPU 600 MHz
+
+Memory: 620 KB RAM
+Storage: 64 KB Flash
+Power: Battery 3.6 V
+I/O: I2C, IC3
+
 Another possibility is using a Microcomputer:
 Which have the following typical Turing Machine Properties.
+Processor Frequency 3 GHz
+Processor Cores: 54
+Dynamic Memory: 64 GB
+Storage: 8 TB
+Power: Watts
+
 Another Possibility is using a Server and Storage:
+Processor Frequency: 3 GHz
+Processor Cores: 
+Dynamic Memory: 512 GB + 
+Storage: 420 TB 60 2.5 SATA SSD RAID 6
+
 Which have the following typical Turing Machine Properties.
 Another Possibility is using a Cloud Computer
 Processor Cores:
@@ -111,6 +129,13 @@ Power: Watts
 What is the important portion that Mathematics has taught you about Theory of Computation. First, and this is most clear
 that while phyiscs and even astrophysics, and cosmology tend to scale at exponential laws this is not true of Information Science, and Information Theory which scale at double arrow scales. As such given the power limitations on earth, which are physical, these scale at exponential laws. Information Theory, and Information Science scale at so far it would seem Knuth Double arrow Laws. It would seem that the Halting problem although (unsolvable) may not actually be. These constructions that one can create using turing machines seem to point to Knuth double arrow notiation when people review information scaling laws. As such these laws rapidly scale beyond the capacity to simulate on real world physics limited processors which leaves the reader to refer to the aformentioned Symbolic Logic Theory to approximate, and reson about their behavior.  Which leaves the question are mathematicians required to rely on symbolic logic to approcimate the behavior of large scale computers to approxiate the power required for them to simulate information. and are there problems which would regardless of the sophistication or scale of an implemented computer still be unsolvable leading to
 the assumed limitation of an unsolvable Halting problem.
+
+As such since given Computing simulation and Information Science laws are scaling at knuth double arrow, then you have first limitations in terms of Information expression and compaction in a Binary Language first, which would then be processed, by some sort of algorithm to determine an approriate mathematical compaction or expression which could simulate best how to codify the information recieved in such a way that it could be parsed by a computer with access to fintie energy.
+
+So this leaves us to a question how can people research and move about a space therin which that Computers can not?
+Using Symbolic Logic Theory and Mathematics. The first attempt at sortrting through the Halting Problem space was the "Turing Machine", however, a Type Theory may be better suited to sort through it. It does matter what language is used.
+
+Note that the raw text representation of all the text within arxiv up to 2019 would abmount to 64 GB. Meaning in reality natural language and symbolic longic are in reference extremely efficient information compaction algorithms. Conversely, there are real world Discrete functions which generate more ifnormation than this far faster.
 
 ## Computability Theory
 This concerns where and to what extent ever more complex computable languages can be written. One could imagine a case where, even though, a particular abstract argument about computing large scale data were made, the impediment to actually simulate an appropriate calculation would be the framework, or basis language of the computation. That is, when given a set of computable rules, a Computer can distill an argument in abstract human terms. The language and whether the recursive process is definable within the computer language makes computability a conscious abstract solution to a posed data analysis. If it is impossible to define a computing language that can distill whether any mathematical statement were true or false, what is the minimum number of rules and guidance that should be made so that a computer or definable language could determine the extent to which a  mathematical statement is correct or false?
